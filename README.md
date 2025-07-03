@@ -1,85 +1,81 @@
-## <!-- Epic GitHub Profile README for @notMKwolfie2011 -->
+<!--
+   notMKwolfie2011's mysterious, playful, retro, minimalist GitHub profile
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+notMKwolfie2011!;Welcome+to+my+profile!;Coding+my+way+through+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&pause=1000&color=00FFD0&center=true&vCenter=true&width=600&lines=%3E+notMKwolfie2011;_gamer+%7C+hacker-in-progress;always+learning...;welcome+to+my+terminal" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" alt="Epic coder gif" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/notMKwolfie2011">
-    <img src="https://img.shields.io/github/followers/notMKwolfie2011?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Code%20Wizard-%E2%9C%A8-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%92%A1-orange?style=flat-square">
+  <img src="https://media.giphy.com/media/3o7WIP5uL3QxbwYxqE/giphy.gif" width="180" alt="retro hacker animation" />
 </p>
 
 ---
 
-## 🚀 About Me
+```text
+> whoami
+gamer | learning to hack | java/js/html explorer
 
-- 🧑‍💻 Epic coder, dreamer, and tech explorer.
-- 💡 I love experimenting with new technologies and building cool stuff.
-- 🌎 On a mission to make the digital world more awesome.
+> status
+[ █▓▒▒░░░ mysterious and playful ░░░▒▒▓█ ]
+
+> motto
+"404: Limits not found"
+```
 
 ---
 
-## 🛠️ Languages & Tools
+### 🕹️ About Me
+
+```text
+- Leveling up in code and games
+- Can type {console.log("hello world");} with my eyes closed
+- On a quest to unlock the next skill tree
+```
+
+---
+
+### 💾 Skills
+
+```text
+[▓▓▓░░░░░░] Java
+[▓▓░░░░░░░] JavaScript
+[▓░░░░░░░░] HTML
+[░░░░░░░░░] Hacking (still grinding XP)
+```
+
+---
+
+### 🖤 Favorite Commands
+
+```bash
+$ sudo apt-get install coffee
+$ git commit -m "be more epic"
+$ cat secrets.txt
+```
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,git,github,linux,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notMKwolfie2011&show_icons=true&hide_title=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=notMKwolfie2011&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notMKwolfie2011&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- ⭐ Created epic projects (check my pinned repos!)
-- 🧩 Solved cool coding challenges
-- 🥇 Always up for learning new things
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/notMKwolfie2011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <!-- Add your socials below if you have them! -->
-  <!-- <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" /></a> -->
-  <!-- <a href="https://discord.gg/yourinvite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=notMKwolfie2011&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notMKwolfie2011&layout=compact&theme=tokyonight&hide_border=true" width="320" />
 </p>
 
 ---
 
 <details>
-  <summary>🎉 Fun Fact</summary>
-  <blockquote>
-    “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-  </blockquote>
+  <summary>:zap: <b>Fun Fact</b></summary>
+  
+  ```text
+  Sometimes I debug just by staring at the screen until it fixes itself.
+  ```
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=7F00FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Have+an+epic+day!%F0%9F%98%8E" alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=20&pause=1000&color=00FFD0&center=true&vCenter=true&width=500&lines=thanks+for+visiting!;try+not+to+get+hacked+%F0%9F%92%A7" />
 </p>
-
-
-<!--
 **notMKwolfie2011/notMKwolfie2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
