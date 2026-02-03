@@ -8,7 +8,7 @@
 <!-- Custom dark background for profile README (works on GitHub profile page) -->
 <div align="center" style="background: #181A1B; border-radius: 16px; padding: 24px 0 16px 0; box-shadow: 0 0 24px #101013;">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Wolfie's+GitHub+Base;idk+what+i'm+doing+but+im+trying;Eaglercraft+%2B+gaming+%2B+chaos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Wolfie's+GitHub+Base;idk+what+i'm+doing+but+im+trying;Eaglercraft+%2B+gaming+%2B+brain+failure" alt="Typing SVG" />
   
   <br><br>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" alt="confused coding cat" />
