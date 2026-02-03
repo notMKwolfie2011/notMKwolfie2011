@@ -9,7 +9,7 @@
 <div align="center" style="background: #181A1B; border-radius: 16px; padding: 24px 0 16px 0; box-shadow: 0 0 24px #101013;">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Wolfie's+GitHub+Page+:D;idk+what+i'm+doing+but+im+trying;Eaglercraft+%2B+Gaming+%2B+Brain+Failure" alt="Typing SVG" />
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=notMKwolfie2011&label=Profile%20views&color=0e75b6&style=flat" alt="notMKwolfie2011" /> </p>
   <br><br>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="confused coding cat" />
   <br><br>
