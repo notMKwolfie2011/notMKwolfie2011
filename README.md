@@ -13,7 +13,6 @@
   <br><br>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="confused coding cat" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/notMKwolfie2011/notMKwolfie2011/main/skin.png" width="100" alt="Wolfie's Minecraft Skin" style="border-radius:12px;box-shadow:0 0 12px #FFD600;">
   
 </div>
 
